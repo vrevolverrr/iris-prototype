@@ -1,0 +1,1 @@
+from iriscore.core.entities import ent_artist, ent_song, ent_platform

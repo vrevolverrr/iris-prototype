@@ -1,0 +1,1659 @@
+{
+  "language": "en",
+  "entities": {
+    "artist": {
+      "automatically_extensible": true,
+      "use_synonyms": true,
+      "matching_strictness": 0.5,
+      "data": [
+        {
+          "value": "troye sivan",
+          "synonyms": []
+        },
+        {
+          "value": "travis scott",
+          "synonyms": []
+        },
+        {
+          "value": "diplo",
+          "synonyms": []
+        },
+        {
+          "value": "blackpink",
+          "synonyms": []
+        },
+        {
+          "value": "quavo",
+          "synonyms": []
+        },
+        {
+          "value": "jasmine clarke",
+          "synonyms": []
+        },
+        {
+          "value": "atc",
+          "synonyms": []
+        },
+        {
+          "value": "timeflies",
+          "synonyms": []
+        },
+        {
+          "value": "loote",
+          "synonyms": []
+        },
+        {
+          "value": "kelsea ballerini",
+          "synonyms": []
+        },
+        {
+          "value": "the chainsmokers",
+          "synonyms": []
+        },
+        {
+          "value": "anne-marie",
+          "synonyms": []
+        },
+        {
+          "value": "twice",
+          "synonyms": []
+        },
+        {
+          "value": "niki",
+          "synonyms": []
+        },
+        {
+          "value": "kurt hugo schneider",
+          "synonyms": []
+        },
+        {
+          "value": "james charles",
+          "synonyms": []
+        },
+        {
+          "value": "alex goot",
+          "synonyms": []
+        },
+        {
+          "value": "katy perry",
+          "synonyms": []
+        },
+        {
+          "value": "the new barden bellas",
+          "synonyms": []
+        },
+        {
+          "value": "julia michaels",
+          "synonyms": []
+        },
+        {
+          "value": "king the kid",
+          "synonyms": []
+        },
+        {
+          "value": "g idle",
+          "synonyms": []
+        },
+        {
+          "value": "camila cabello",
+          "synonyms": []
+        },
+        {
+          "value": "jonas brothers",
+          "synonyms": []
+        },
+        {
+          "value": "kotomi",
+          "synonyms": []
+        },
+        {
+          "value": "imagine dragons",
+          "synonyms": []
+        },
+        {
+          "value": "sam tsui",
+          "synonyms": []
+        },
+        {
+          "value": "major lazer",
+          "synonyms": []
+        },
+        {
+          "value": "halsey",
+          "synonyms": []
+        },
+        {
+          "value": "dragon pig",
+          "synonyms": []
+        },
+        {
+          "value": "red velvet",
+          "synonyms": []
+        },
+        {
+          "value": "demi lovato",
+          "synonyms": []
+        },
+        {
+          "value": "maroon 5",
+          "synonyms": []
+        },
+        {
+          "value": "the bellas",
+          "synonyms": []
+        },
+        {
+          "value": "jeremy zucker",
+          "synonyms": []
+        },
+        {
+          "value": "train",
+          "synonyms": []
+        },
+        {
+          "value": "rick and morty",
+          "synonyms": []
+        },
+        {
+          "value": "alyson stoner",
+          "synonyms": []
+        },
+        {
+          "value": "sabrina carpenter",
+          "synonyms": []
+        },
+        {
+          "value": "madison beer",
+          "synonyms": []
+        },
+        {
+          "value": "nick the real",
+          "synonyms": []
+        },
+        {
+          "value": "ed sheeran",
+          "synonyms": []
+        },
+        {
+          "value": "one direction",
+          "synonyms": []
+        },
+        {
+          "value": "gem",
+          "synonyms": []
+        },
+        {
+          "value": "bazzi",
+          "synonyms": []
+        },
+        {
+          "value": "bebe rexha",
+          "synonyms": []
+        },
+        {
+          "value": "ryan elder",
+          "synonyms": []
+        },
+        {
+          "value": "swae lee",
+          "synonyms": []
+        },
+        {
+          "value": "christina grimmie",
+          "synonyms": []
+        },
+        {
+          "value": "absofacto",
+          "synonyms": []
+        },
+        {
+          "value": "the vamps",
+          "synonyms": []
+        },
+        {
+          "value": "taylor swift",
+          "synonyms": []
+        },
+        {
+          "value": "one republic",
+          "synonyms": []
+        },
+        {
+          "value": "seraphine",
+          "synonyms": []
+        },
+        {
+          "value": "lauv",
+          "synonyms": []
+        },
+        {
+          "value": "ellie goulding",
+          "synonyms": []
+        },
+        {
+          "value": "5 seconds of summer",
+          "synonyms": []
+        },
+        {
+          "value": "alec benjamin",
+          "synonyms": []
+        },
+        {
+          "value": "hailee steinfeld",
+          "synonyms": []
+        },
+        {
+          "value": "why don't we",
+          "synonyms": []
+        },
+        {
+          "value": "selena gomez",
+          "synonyms": []
+        },
+        {
+          "value": "post malone",
+          "synonyms": []
+        },
+        {
+          "value": "andy grammer",
+          "synonyms": []
+        },
+        {
+          "value": "cimorelli",
+          "synonyms": []
+        },
+        {
+          "value": "kelly clarkson",
+          "synonyms": []
+        },
+        {
+          "value": "amin\u00e9",
+          "synonyms": []
+        },
+        {
+          "value": "meghan trainor",
+          "synonyms": []
+        }
+      ]
+    },
+    "song": {
+      "automatically_extensible": true,
+      "use_synonyms": true,
+      "matching_strictness": 0.5,
+      "data": [
+        {
+          "value": "circles",
+          "synonyms": []
+        },
+        {
+          "value": "anywhere with you is home",
+          "synonyms": []
+        },
+        {
+          "value": "close to me",
+          "synonyms": []
+        },
+        {
+          "value": "dlwlrma",
+          "synonyms": []
+        },
+        {
+          "value": "made me this way",
+          "synonyms": []
+        },
+        {
+          "value": "boomerang",
+          "synonyms": []
+        },
+        {
+          "value": "i like me better",
+          "synonyms": []
+        },
+        {
+          "value": "blueming",
+          "synonyms": []
+        },
+        {
+          "value": "sunflower",
+          "synonyms": []
+        },
+        {
+          "value": "memories",
+          "synonyms": []
+        },
+        {
+          "value": "supermarket flowers",
+          "synonyms": []
+        },
+        {
+          "value": "on top of the world",
+          "synonyms": []
+        },
+        {
+          "value": "only the young",
+          "synonyms": []
+        },
+        {
+          "value": "cardigan",
+          "synonyms": []
+        },
+        {
+          "value": "demi lovato medley",
+          "synonyms": []
+        },
+        {
+          "value": "full stop",
+          "synonyms": []
+        },
+        {
+          "value": "hey, soul sister",
+          "synonyms": []
+        },
+        {
+          "value": "home with you",
+          "synonyms": []
+        },
+        {
+          "value": "all the things she said",
+          "synonyms": []
+        },
+        {
+          "value": "getaway car",
+          "synonyms": []
+        },
+        {
+          "value": "stronger",
+          "synonyms": []
+        },
+        {
+          "value": "what makes you beautiful",
+          "synonyms": []
+        },
+        {
+          "value": "this feeling",
+          "synonyms": []
+        },
+        {
+          "value": "popstars",
+          "synonyms": []
+        },
+        {
+          "value": "sue me",
+          "synonyms": []
+        },
+        {
+          "value": "22",
+          "synonyms": []
+        },
+        {
+          "value": "daylight",
+          "synonyms": []
+        },
+        {
+          "value": "machine",
+          "synonyms": []
+        },
+        {
+          "value": "without me",
+          "synonyms": []
+        },
+        {
+          "value": "see the stars",
+          "synonyms": []
+        },
+        {
+          "value": "one more night",
+          "synonyms": []
+        },
+        {
+          "value": "cool",
+          "synonyms": []
+        },
+        {
+          "value": "beautiful",
+          "synonyms": []
+        },
+        {
+          "value": "most girls",
+          "synonyms": []
+        },
+        {
+          "value": "birthday",
+          "synonyms": []
+        },
+        {
+          "value": "call you mine",
+          "synonyms": []
+        },
+        {
+          "value": "out of the woods",
+          "synonyms": []
+        },
+        {
+          "value": "i\u2019ll make it up to you",
+          "synonyms": []
+        },
+        {
+          "value": "delicate",
+          "synonyms": []
+        },
+        {
+          "value": "sixteen",
+          "synonyms": []
+        },
+        {
+          "value": "new romantics",
+          "synonyms": []
+        },
+        {
+          "value": "one in a million",
+          "synonyms": []
+        },
+        {
+          "value": "girl in the mirror",
+          "synonyms": []
+        },
+        {
+          "value": "london boy",
+          "synonyms": []
+        },
+        {
+          "value": "know no better",
+          "synonyms": []
+        },
+        {
+          "value": "forever love",
+          "synonyms": []
+        },
+        {
+          "value": "i'm so tired",
+          "synonyms": []
+        },
+        {
+          "value": "don't give up on me",
+          "synonyms": []
+        },
+        {
+          "value": "big plans",
+          "synonyms": []
+        },
+        {
+          "value": "you can't stop the girl",
+          "synonyms": []
+        },
+        {
+          "value": "counting stars",
+          "synonyms": []
+        },
+        {
+          "value": "paradise",
+          "synonyms": []
+        },
+        {
+          "value": "better when i'm dancing",
+          "synonyms": []
+        },
+        {
+          "value": "all the kids are depressed",
+          "synonyms": []
+        },
+        {
+          "value": "2002",
+          "synonyms": []
+        },
+        {
+          "value": "sit still, look pretty",
+          "synonyms": []
+        },
+        {
+          "value": "i found a girl",
+          "synonyms": []
+        },
+        {
+          "value": "small talk",
+          "synonyms": []
+        },
+        {
+          "value": "what am i",
+          "synonyms": []
+        },
+        {
+          "value": "gorgeous",
+          "synonyms": []
+        },
+        {
+          "value": "don't look back",
+          "synonyms": []
+        },
+        {
+          "value": "start over",
+          "synonyms": []
+        },
+        {
+          "value": "17",
+          "synonyms": []
+        },
+        {
+          "value": "through the night",
+          "synonyms": []
+        },
+        {
+          "value": "helium",
+          "synonyms": []
+        },
+        {
+          "value": "you need to calm down",
+          "synonyms": []
+        },
+        {
+          "value": "above the time",
+          "synonyms": []
+        },
+        {
+          "value": "i knew you were trouble",
+          "synonyms": []
+        },
+        {
+          "value": "i love me",
+          "synonyms": []
+        },
+        {
+          "value": "lie to me",
+          "synonyms": []
+        },
+        {
+          "value": "i forgot that you existed",
+          "synonyms": []
+        },
+        {
+          "value": "paris in the rain",
+          "synonyms": []
+        },
+        {
+          "value": "legends never die",
+          "synonyms": []
+        },
+        {
+          "value": "just a dream",
+          "synonyms": []
+        },
+        {
+          "value": "taylor",
+          "synonyms": []
+        },
+        {
+          "value": "beauty and a beat",
+          "synonyms": []
+        },
+        {
+          "value": "tomorrow tonight",
+          "synonyms": []
+        },
+        {
+          "value": "strawberry and cigarettes",
+          "synonyms": []
+        },
+        {
+          "value": "childhood dreams",
+          "synonyms": []
+        },
+        {
+          "value": "cruel summer",
+          "synonyms": []
+        },
+        {
+          "value": "comethru",
+          "synonyms": []
+        },
+        {
+          "value": "remember me",
+          "synonyms": []
+        },
+        {
+          "value": "thunder",
+          "synonyms": []
+        },
+        {
+          "value": "invincible",
+          "synonyms": []
+        },
+        {
+          "value": "blank space",
+          "synonyms": []
+        },
+        {
+          "value": "back to you",
+          "synonyms": []
+        },
+        {
+          "value": "paper rings",
+          "synonyms": []
+        },
+        {
+          "value": "if we have each other",
+          "synonyms": []
+        },
+        {
+          "value": "lowkey",
+          "synonyms": []
+        },
+        {
+          "value": "cornelia street",
+          "synonyms": []
+        },
+        {
+          "value": "palette",
+          "synonyms": []
+        },
+        {
+          "value": "our song",
+          "synonyms": []
+        }
+      ]
+    },
+    "platform": {
+      "automatically_extensible": false,
+      "use_synonyms": true,
+      "matching_strictness": 1.0,
+      "data": [
+        {
+          "value": "spotify",
+          "synonyms": []
+        },
+        {
+          "value": "windows",
+          "synonyms": []
+        },
+        {
+          "value": "chrome",
+          "synonyms": [
+            "google chrome"
+          ]
+        },
+        {
+          "value": "discord",
+          "synonyms": []
+        }
+      ]
+    },
+    "playbackcontrol": {
+      "automatically_extensible": false,
+      "use_synonyms": true,
+      "matching_strictness": 1.0,
+      "data": [
+        {
+          "value": "resume",
+          "synonyms": [
+            "play"
+          ]
+        },
+        {
+          "value": "pause",
+          "synonyms": [
+            "stop"
+          ]
+        }
+      ]
+    },
+    "volumeactions": {
+      "automatically_extensible": false,
+      "use_synonyms": true,
+      "matching_strictness": 1.0,
+      "data": [
+        {
+          "value": "set",
+          "synonyms": [
+            "adjust"
+          ]
+        },
+        {
+          "value": "raise",
+          "synonyms": [
+            "increase"
+          ]
+        },
+        {
+          "value": "lower",
+          "synonyms": [
+            "decrease"
+          ]
+        },
+        {
+          "value": "mute",
+          "synonyms": [
+            "silence"
+          ]
+        }
+      ]
+    },
+    "snips/percentage": {},
+    "preposition": {
+      "automatically_extensible": false,
+      "use_synonyms": true,
+      "matching_strictness": 1.0,
+      "data": [
+        {
+          "value": "to",
+          "synonyms": []
+        },
+        {
+          "value": "by",
+          "synonyms": []
+        }
+      ]
+    }
+  },
+  "intents": {
+    "playSong": {
+      "utterances": [
+        {
+          "data": [
+            {
+              "text": "play "
+            },
+            {
+              "entity": "artist",
+              "slot_name": "artist",
+              "text": "bazzi"
+            },
+            {
+              "text": "'s "
+            },
+            {
+              "entity": "song",
+              "slot_name": "song",
+              "text": "close to me"
+            },
+            {
+              "text": " on "
+            },
+            {
+              "entity": "platform",
+              "slot_name": "platform",
+              "text": "discord"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "play "
+            },
+            {
+              "entity": "artist",
+              "slot_name": "artist",
+              "text": "one republic"
+            },
+            {
+              "text": "'s "
+            },
+            {
+              "entity": "song",
+              "slot_name": "song",
+              "text": "paradise"
+            },
+            {
+              "text": " on "
+            },
+            {
+              "entity": "platform",
+              "slot_name": "platform",
+              "text": "spotify"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "play "
+            },
+            {
+              "entity": "song",
+              "slot_name": "song",
+              "text": "childhood dreams"
+            },
+            {
+              "text": " by "
+            },
+            {
+              "entity": "artist",
+              "slot_name": "artist",
+              "text": "halsey"
+            },
+            {
+              "text": " on "
+            },
+            {
+              "entity": "platform",
+              "slot_name": "platform",
+              "text": "windows"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "play me "
+            },
+            {
+              "entity": "song",
+              "slot_name": "song",
+              "text": "birthday"
+            },
+            {
+              "text": " by "
+            },
+            {
+              "entity": "artist",
+              "slot_name": "artist",
+              "text": "twice"
+            },
+            {
+              "text": " on "
+            },
+            {
+              "entity": "platform",
+              "slot_name": "platform",
+              "text": "chrome"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "please play me "
+            },
+            {
+              "entity": "song",
+              "slot_name": "song",
+              "text": "only the young"
+            },
+            {
+              "text": " by "
+            },
+            {
+              "entity": "artist",
+              "slot_name": "artist",
+              "text": "atc"
+            },
+            {
+              "text": " on "
+            },
+            {
+              "entity": "platform",
+              "slot_name": "platform",
+              "text": "spotify"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "please play "
+            },
+            {
+              "entity": "song",
+              "slot_name": "song",
+              "text": "know no better"
+            },
+            {
+              "text": " by "
+            },
+            {
+              "entity": "artist",
+              "slot_name": "artist",
+              "text": "twice"
+            },
+            {
+              "text": " on "
+            },
+            {
+              "entity": "platform",
+              "slot_name": "platform",
+              "text": "google chrome"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "can you play "
+            },
+            {
+              "entity": "song",
+              "slot_name": "song",
+              "text": "new romantics"
+            },
+            {
+              "text": " by "
+            },
+            {
+              "entity": "artist",
+              "slot_name": "artist",
+              "text": "halsey"
+            },
+            {
+              "text": " on "
+            },
+            {
+              "entity": "platform",
+              "slot_name": "platform",
+              "text": "discord"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "could you please play "
+            },
+            {
+              "entity": "song",
+              "slot_name": "song",
+              "text": "counting stars"
+            },
+            {
+              "text": " by "
+            },
+            {
+              "entity": "artist",
+              "slot_name": "artist",
+              "text": "travis scott"
+            },
+            {
+              "text": " on "
+            },
+            {
+              "entity": "platform",
+              "slot_name": "platform",
+              "text": "spotify"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "i would like to listen to "
+            },
+            {
+              "entity": "song",
+              "slot_name": "song",
+              "text": "close to me"
+            },
+            {
+              "text": " by "
+            },
+            {
+              "entity": "artist",
+              "slot_name": "artist",
+              "text": "christina grimmie"
+            },
+            {
+              "text": " on "
+            },
+            {
+              "entity": "platform",
+              "slot_name": "platform",
+              "text": "windows"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "i want to listen to "
+            },
+            {
+              "entity": "song",
+              "slot_name": "song",
+              "text": "only the young"
+            },
+            {
+              "text": " by "
+            },
+            {
+              "entity": "artist",
+              "slot_name": "artist",
+              "text": "the chainsmokers"
+            },
+            {
+              "text": " on "
+            },
+            {
+              "entity": "platform",
+              "slot_name": "platform",
+              "text": "windows"
+            }
+          ]
+        }
+      ]
+    },
+    "controlPlayback": {
+      "utterances": [
+        {
+          "data": [
+            {
+              "entity": "playbackcontrol",
+              "slot_name": "control",
+              "text": "play"
+            },
+            {
+              "text": " my playback"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "playbackcontrol",
+              "slot_name": "control",
+              "text": "play"
+            },
+            {
+              "text": "   "
+            },
+            {
+              "entity": "platform",
+              "slot_name": "platform",
+              "text": "discord"
+            },
+            {
+              "text": "'s playback"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "playbackcontrol",
+              "slot_name": "control",
+              "text": "resume"
+            },
+            {
+              "text": " playback on "
+            },
+            {
+              "entity": "platform",
+              "slot_name": "platform",
+              "text": "chrome"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "playbackcontrol",
+              "slot_name": "control",
+              "text": "resume"
+            },
+            {
+              "text": " the song on "
+            },
+            {
+              "entity": "platform",
+              "slot_name": "platform",
+              "text": "discord"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "playbackcontrol",
+              "slot_name": "control",
+              "text": "stop"
+            },
+            {
+              "text": " this song on "
+            },
+            {
+              "entity": "platform",
+              "slot_name": "platform",
+              "text": "spotify"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "please "
+            },
+            {
+              "entity": "playbackcontrol",
+              "slot_name": "control",
+              "text": "resume"
+            },
+            {
+              "text": " my playback"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "please "
+            },
+            {
+              "entity": "playbackcontrol",
+              "slot_name": "control",
+              "text": "resume"
+            },
+            {
+              "text": "   "
+            },
+            {
+              "entity": "platform",
+              "slot_name": "platform",
+              "text": "chrome"
+            },
+            {
+              "text": "'s playback"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "please "
+            },
+            {
+              "entity": "playbackcontrol",
+              "slot_name": "control",
+              "text": "pause"
+            },
+            {
+              "text": " playback on "
+            },
+            {
+              "entity": "platform",
+              "slot_name": "platform",
+              "text": "google chrome"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "please "
+            },
+            {
+              "entity": "playbackcontrol",
+              "slot_name": "control",
+              "text": "pause"
+            },
+            {
+              "text": " the song on "
+            },
+            {
+              "entity": "platform",
+              "slot_name": "platform",
+              "text": "discord"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "please "
+            },
+            {
+              "entity": "playbackcontrol",
+              "slot_name": "control",
+              "text": "pause"
+            },
+            {
+              "text": " this song on "
+            },
+            {
+              "entity": "platform",
+              "slot_name": "platform",
+              "text": "spotify"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "pause "
+            },
+            {
+              "entity": "song",
+              "slot_name": "song",
+              "text": "strawberry and cigarettes"
+            },
+            {
+              "text": " on "
+            },
+            {
+              "entity": "platform",
+              "slot_name": "platform",
+              "text": "spotify"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "please "
+            },
+            {
+              "entity": "playbackcontrol",
+              "slot_name": "control",
+              "text": "pause"
+            },
+            {
+              "text": "   "
+            },
+            {
+              "entity": "song",
+              "slot_name": "song",
+              "text": "comethru"
+            },
+            {
+              "text": " on "
+            },
+            {
+              "entity": "platform",
+              "slot_name": "platform",
+              "text": "windows"
+            }
+          ]
+        }
+      ]
+    },
+    "setVolume": {
+      "utterances": [
+        {
+          "data": [
+            {
+              "entity": "volumeactions",
+              "slot_name": "action",
+              "text": "mute"
+            },
+            {
+              "text": " the volume of "
+            },
+            {
+              "entity": "platform",
+              "slot_name": "platform",
+              "text": "windows"
+            },
+            {
+              "text": "   "
+            },
+            {
+              "entity": "preposition",
+              "slot_name": "prep",
+              "text": "to"
+            },
+            {
+              "text": "   "
+            },
+            {
+              "entity": "snips/percentage",
+              "slot_name": "percent",
+              "text": "100%"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "volumeactions",
+              "slot_name": "action",
+              "text": "increase"
+            },
+            {
+              "text": " the volume on "
+            },
+            {
+              "entity": "platform",
+              "slot_name": "platform",
+              "text": "discord"
+            },
+            {
+              "text": "   "
+            },
+            {
+              "entity": "preposition",
+              "slot_name": "prep",
+              "text": "to"
+            },
+            {
+              "text": "   "
+            },
+            {
+              "entity": "snips/percentage",
+              "slot_name": "percent",
+              "text": "20%"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "please "
+            },
+            {
+              "entity": "volumeactions",
+              "slot_name": "action",
+              "text": "adjust"
+            },
+            {
+              "text": " the volume of "
+            },
+            {
+              "entity": "platform",
+              "slot_name": "platform",
+              "text": "windows"
+            },
+            {
+              "text": "   "
+            },
+            {
+              "entity": "preposition",
+              "slot_name": "prep",
+              "text": "to"
+            },
+            {
+              "text": "   "
+            },
+            {
+              "entity": "snips/percentage",
+              "slot_name": "percent",
+              "text": "one hundred and thirty percents"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "please "
+            },
+            {
+              "entity": "volumeactions",
+              "slot_name": "action",
+              "text": "set"
+            },
+            {
+              "text": " the volume on "
+            },
+            {
+              "entity": "platform",
+              "slot_name": "platform",
+              "text": "discord"
+            },
+            {
+              "text": "   "
+            },
+            {
+              "entity": "preposition",
+              "slot_name": "prep",
+              "text": "to"
+            },
+            {
+              "text": "   "
+            },
+            {
+              "entity": "snips/percentage",
+              "slot_name": "percent",
+              "text": "fourty five percent"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "can you please "
+            },
+            {
+              "entity": "volumeactions",
+              "slot_name": "action",
+              "text": "raise"
+            },
+            {
+              "text": " the volume of "
+            },
+            {
+              "entity": "platform",
+              "slot_name": "platform",
+              "text": "windows"
+            },
+            {
+              "text": "   "
+            },
+            {
+              "entity": "preposition",
+              "slot_name": "prep",
+              "text": "by"
+            },
+            {
+              "text": "   "
+            },
+            {
+              "entity": "snips/percentage",
+              "slot_name": "percent",
+              "text": "one hundred and thirty percents"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "could you please "
+            },
+            {
+              "entity": "volumeactions",
+              "slot_name": "action",
+              "text": "increase"
+            },
+            {
+              "text": " the volume of "
+            },
+            {
+              "entity": "platform",
+              "slot_name": "platform",
+              "text": "spotify"
+            },
+            {
+              "text": "   "
+            },
+            {
+              "entity": "preposition",
+              "slot_name": "prep",
+              "text": "to"
+            },
+            {
+              "text": "   "
+            },
+            {
+              "entity": "snips/percentage",
+              "slot_name": "percent",
+              "text": "100%"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "would you please "
+            },
+            {
+              "entity": "volumeactions",
+              "slot_name": "action",
+              "text": "adjust"
+            },
+            {
+              "text": " the volume of "
+            },
+            {
+              "entity": "platform",
+              "slot_name": "platform",
+              "text": "discord"
+            },
+            {
+              "text": "   "
+            },
+            {
+              "entity": "preposition",
+              "slot_name": "prep",
+              "text": "to"
+            },
+            {
+              "text": "   "
+            },
+            {
+              "entity": "snips/percentage",
+              "slot_name": "percent",
+              "text": "twenty five percents"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "can you "
+            },
+            {
+              "entity": "volumeactions",
+              "slot_name": "action",
+              "text": "set"
+            },
+            {
+              "text": " the volume of "
+            },
+            {
+              "entity": "platform",
+              "slot_name": "platform",
+              "text": "discord"
+            },
+            {
+              "text": "   "
+            },
+            {
+              "entity": "preposition",
+              "slot_name": "prep",
+              "text": "to"
+            },
+            {
+              "text": "   "
+            },
+            {
+              "entity": "snips/percentage",
+              "slot_name": "percent",
+              "text": "fourty five percent"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "can you please "
+            },
+            {
+              "entity": "volumeactions",
+              "slot_name": "action",
+              "text": "silence"
+            },
+            {
+              "text": " the volume on "
+            },
+            {
+              "entity": "platform",
+              "slot_name": "platform",
+              "text": "windows"
+            },
+            {
+              "text": "   "
+            },
+            {
+              "entity": "preposition",
+              "slot_name": "prep",
+              "text": "to"
+            },
+            {
+              "text": "   "
+            },
+            {
+              "entity": "snips/percentage",
+              "slot_name": "percent",
+              "text": "one hundred and thirty percents"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "could you "
+            },
+            {
+              "entity": "volumeactions",
+              "slot_name": "action",
+              "text": "adjust"
+            },
+            {
+              "text": " the volume of "
+            },
+            {
+              "entity": "platform",
+              "slot_name": "platform",
+              "text": "chrome"
+            },
+            {
+              "text": "   "
+            },
+            {
+              "entity": "preposition",
+              "slot_name": "prep",
+              "text": "by"
+            },
+            {
+              "text": "   "
+            },
+            {
+              "entity": "snips/percentage",
+              "slot_name": "percent",
+              "text": "one hundred and thirty percents"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "would you "
+            },
+            {
+              "entity": "volumeactions",
+              "slot_name": "action",
+              "text": "lower"
+            },
+            {
+              "text": " the volume of "
+            },
+            {
+              "entity": "platform",
+              "slot_name": "platform",
+              "text": "discord"
+            },
+            {
+              "text": "   "
+            },
+            {
+              "entity": "preposition",
+              "slot_name": "prep",
+              "text": "to"
+            },
+            {
+              "text": "   "
+            },
+            {
+              "entity": "snips/percentage",
+              "slot_name": "percent",
+              "text": "eighty percent"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

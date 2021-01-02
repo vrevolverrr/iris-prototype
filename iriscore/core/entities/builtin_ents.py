@@ -1,0 +1,20 @@
+from enum import Enum
+
+class BuiltinEntities(Enum):
+    AmountOfMoney = "snips/amountOfMoney"
+    Duration = "snips/duration"
+    Number	= "snips/number"
+    Ordinal	= "snips/ordinal"
+    Temperature	= "snips/temperature"
+    Datetime = "snips/datetime"
+    Date = "snips/date"
+    Time = "snips/time"
+    DatePeriod = "snips/datePeriod"
+    TimePeriod = "snips/timePeriod"
+    Percentage = "snips/percentage"
+    MusicAlbum = "snips/musicAlbum"
+    MusicTrack = "snips/musicTrack"
+    MusicArtist = "snips/musicArtist"
+    City = "snips/city"
+    Country = "snips/country"
+    Region = "snips/region"
