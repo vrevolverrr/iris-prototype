@@ -96,12 +96,12 @@ class IntentResult:
     with open(INTENTS_INDEX_PATH, "rb") as f:
             intents_index = pickle.load(f)
 
-    def __init__(self, parse_result: dict):
+    def __init__(self, parsed_result: dict):
         if self.intents_index is None:
             raise AttributeError("Intents index not loaded. Please load it with load_intents()")
 
-        self.raw_text: str = parse_result["input"]
-        self.intent_name: str = parse_result["intent"]["intentName"]
-        self.intent_probability: float = parse_result["intent"]["probability"]
+        self.raw_text: str = parsed_result["input"]
+        self.intent_name: str = parsed_result["intent"]["intentName"]
+        self.intent_probability: float = parsed_result["intent"]["probability"]
         self.intent_class: Intent = self.intents_index[self.intent_name]
-        self.slots: Dict[str, SlotResult] = {slot["slotName"]: SlotResult(slot) for slot in parse_result["slots"]}
+        self.slots: Dict[str, SlotResult] = {slot["slotName"]: SlotResult(slot) for slot in parsed_result["slots"]}

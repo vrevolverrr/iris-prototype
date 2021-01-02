@@ -37,7 +37,7 @@ class ControlPlayback(Intent):
     @staticmethod
     def verify_slots( slot_results: Dict[str, SlotResult]) -> RequeryRequest:
         if "platform" not in slot_results.keys():
-            return RequeryRequest("Whose playback would you like to me control?", "platform", Platform, RequeryType.KEYWORD)
+            return RequeryRequest("Whose playback would you like me to control?", "platform", Platform, RequeryType.KEYWORD)
     
         if "control" not in slot_results.keys():
             return RequeryRequest(f"What would you like me to do to {slot_results['platform'].value}?", "control", PlaybackControl, RequeryType.NATURAL)

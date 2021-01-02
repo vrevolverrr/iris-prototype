@@ -2,10 +2,10 @@
 import base64
 import json
 import random
-from snips_nlu import SnipsNLUEngine
 
 # Core
 from iriscore.core.config import MODEL_PATH, REQUEST_ID_LENGTH
+from iriscore.core.nlu_engine import NLUEngine
 from iriscore.core.enums import RequestType, Status
 from iriscore.core.synthesizer.synthesizer import Synthesizer
 from iriscore.core.structs.intent import IntentResponse, IntentResult
@@ -13,14 +13,14 @@ from iriscore.core.request import RequeryRequest
 from iriscore.core.requery import RequeryParser
 
 class Iris:
-    engine: SnipsNLUEngine = None
+    engine: NLUEngine = None
     synthesizer: Synthesizer = None
     requery_parser: RequeryParser = None
     pending_requests = dict()
 
     @classmethod
     def start(cls):
-        cls.engine = SnipsNLUEngine.from_path(MODEL_PATH)
+        cls.engine = NLUEngine()
         cls.synthesizer = Synthesizer()
         cls.requery_parser = RequeryParser()
 
@@ -43,7 +43,12 @@ class IrisRequest:
     def response_string(self):
         response: dict = dict()
         response["response_text"] = self.response_text
-        response["response_audio"] = base64.b64encode(self.response_audio).decode('ascii')
+        
+        if self.response_audio is not None:
+            response["response_audio"] = base64.b64encode(self.response_audio).decode('ascii')
+        else:
+            response["response_audio"] = None
+        
         response["request_id"] = self.request_id
         response["status"] = self.status.value
 
@@ -76,7 +81,12 @@ class IrisRequest:
         if requery_request is None:
             intent_response: IntentResponse = intent_result.intent_class.intent_action(intent_result.raw_text, intent_result.slots)
             self.response_text = intent_result.intent_class.intent_response(intent_response).result
-            self.response_audio = Iris.synthesizer.synthesize_speech(self.response_text)
+
+            if self.response_text != "":
+                self.response_audio = Iris.synthesizer.synthesize_speech(self.response_text)
+            else:
+                self.response_audio = None
+
             self.status = Status.COMPLETED
         else:
             self.request_id = IrisRequest.generate_id(REQUEST_ID_LENGTH)
